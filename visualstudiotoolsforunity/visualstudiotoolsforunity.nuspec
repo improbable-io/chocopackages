@@ -4,10 +4,10 @@
   <metadata>
     <id>visualstudiotoolsforunity</id>
     <version>3.3.0.2</version>
-    <packageSourceUrl>https://github.com/petemounce/chocopackages/tree/master/visualstudiotoolsforunity</packageSourceUrl>
-    <owners>petemounce</owners>
+    <packageSourceUrl>https://github.com/improbable-io/chocopackages/tree/master/visualstudiotoolsforunity</packageSourceUrl>
+    <owners>petemounce,improbable</owners>
     <title>visualstudiotoolsforunity (Install)</title>
-    <authors>petemounce</authors>
+    <authors>petemounce,improbable</authors>
     <projectUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/visual-studio-tools-for-unity</projectUrl>
     <iconUrl>https://sebastienlebreton.gallerycdn.vsassets.io/extensions/sebastienlebreton/visualstudio2015toolsforunity/3.3.0.2/1502836519772/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
     <docsUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/overview-of-visual-studio-tools-for-unity</docsUrl>
