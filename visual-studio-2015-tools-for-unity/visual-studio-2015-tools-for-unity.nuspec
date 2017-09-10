@@ -2,17 +2,17 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>visualstudiotoolsforunity</id>
+    <id>visual-studio-2015-tools-for-unity</id>
     <version>3.3.0.2</version>
-    <packageSourceUrl>https://github.com/improbable-io/chocopackages/tree/master/visualstudiotoolsforunity</packageSourceUrl>
+    <packageSourceUrl>https://github.com/improbable-io/chocopackages/tree/master/visual-studio-2015-tools-for-unity</packageSourceUrl>
     <owners>petemounce,improbable</owners>
-    <title>visualstudiotoolsforunity (Install)</title>
+    <title>visual-studio-2015-tools-for-unity (Install)</title>
     <authors>Unity</authors>
     <projectUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/visual-studio-tools-for-unity</projectUrl>
     <iconUrl>https://sebastienlebreton.gallerycdn.vsassets.io/extensions/sebastienlebreton/visualstudio2015toolsforunity/3.3.0.2/1502836519772/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
     <docsUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/overview-of-visual-studio-tools-for-unity</docsUrl>
     <tags>visualstudio extension unity</tags>
-    <summary>Visual Studio Tools for Unity extension</summary>
+    <summary>Visual Studio 2015 Tools for Unity extension</summary>
     <description># A Visual Studio extension for helping Unity development
 
 Note: you need _an_ edition of Visual Studio 2015.
