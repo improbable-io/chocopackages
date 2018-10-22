@@ -3,13 +3,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>visual-studio-2015-tools-for-unity</id>
-    <version>3.3.0.2</version>
+    <version>3.8.0.7</version>
     <packageSourceUrl>https://github.com/improbable-io/chocopackages/tree/master/visual-studio-2015-tools-for-unity</packageSourceUrl>
     <owners>petemounce,improbable</owners>
     <title>Visual Studio 2015 Tools for Unity</title>
     <authors>Unity</authors>
     <projectUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/visual-studio-tools-for-unity</projectUrl>
-    <iconUrl>https://sebastienlebreton.gallerycdn.vsassets.io/extensions/sebastienlebreton/visualstudio2015toolsforunity/3.3.0.2/1502836519772/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
+    <iconUrl>https://sebastienlebreton.gallerycdn.vsassets.io/extensions/sebastienlebreton/visualstudio2015toolsforunity/3.8.0.7/1537824503275/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
     <docsUrl>https://docs.microsoft.com/en-us/visualstudio/cross-platform/overview-of-visual-studio-tools-for-unity</docsUrl>
     <tags>visualstudio extension unity</tags>
     <summary>Visual Studio 2015 Tools for Unity extension</summary>
